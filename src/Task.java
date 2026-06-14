@@ -1,16 +1,3 @@
-/**
- * Author: Johnathan McAllister (McAdmin)
- * Date: 2026-06-13
- * Course:
- * Professor:
- * <p>
- * Purpose:
- * -
- * <p>
- * Constraints:
- * -
- */
-
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
